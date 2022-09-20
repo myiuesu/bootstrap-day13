@@ -1,0 +1,14 @@
+h1,
+h2,
+h5 {
+  font-family: "Comfortaa", cursive;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.top {
+  background-image: url(../img/top.png);
+  background-size: cover;
+}
